@@ -34,6 +34,9 @@ pip install requests
 git clone https://github.com/USERNAME/websec-scan
 cd websec-scan
 python websec_scan.py
+
+---
+
 ## 📸 Screenshot
 
 ![WebSec Scan Tool](assets/Screenshot_20251231-134549_1.png)
