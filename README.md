@@ -1,4 +1,4 @@
-# WebSec Scan 🔐
+# DevSec Scan 🔐
 
 WebSec Scan adalah tools **early web security checker** untuk developer web.  
 Dirancang untuk membantu mendeteksi **kerentanan dasar** sebelum website di-deploy ke production.
@@ -33,7 +33,7 @@ pkg install python git
 pip install requests
 git clone https://github.com/USERNAME/websec-scan
 cd websec-scan
-python websec_scan.py
+python devsec_scan.py
 ```
 
 ---
