@@ -34,6 +34,7 @@ pip install requests
 git clone https://github.com/USERNAME/websec-scan
 cd websec-scan
 python websec_scan.py
+```
 
 ---
 
